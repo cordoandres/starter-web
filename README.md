@@ -9,3 +9,7 @@ Sample website with plenty of files for demos
 training
 
 # How to contribute
+
+## COPYRIGTH
+
+2023 Corrdo
