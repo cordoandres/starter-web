@@ -10,6 +10,8 @@ training
 
 # How to contribute
 
+Please fork this repository and then issue Pull resquests for review.
+
 ## COPYRIGTH
 
 2023 Corrdo
