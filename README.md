@@ -15,4 +15,4 @@ Please fork this repository and then issue Pull resquests for review.
 
 ## COPYRIGTH
 
-2023 Corrdo
+2023 Corrdo All Rigths reserve
